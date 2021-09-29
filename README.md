@@ -21,3 +21,9 @@ only String                 can Object
 
 only Message                not
                             
+                            
+                            
+ using socket io 
+ can join room 
+ can count room's people
+ later need frontend
